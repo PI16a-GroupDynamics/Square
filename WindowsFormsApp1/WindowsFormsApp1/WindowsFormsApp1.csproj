@@ -66,10 +66,7 @@
     <Compile Include="autorisation.Designer.cs">
       <DependentUpon>autorisation.cs</DependentUpon>
     </Compile>
-    <Compile Include="ComplexNumbers.cs" />
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Form1.cs" />
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
@@ -99,9 +96,7 @@
     <Compile Include="spravka.Designer.cs">
       <DependentUpon>spravka.cs</DependentUpon>
     </Compile>
-    <Compile Include="story_prosm.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="story_prosm.cs" />
     <Compile Include="story_prosm.Designer.cs">
       <DependentUpon>story_prosm.cs</DependentUpon>
     </Compile>
